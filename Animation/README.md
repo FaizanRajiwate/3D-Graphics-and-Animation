@@ -1,2 +1,9 @@
 # 3D Graphics and Animation 
- A repository to submit CW1 of 3D Graphics and Animation 
+Explanation on how the animation of created using Unreal Engine 5.
+
+Firstly the models of the police and the robber were exported from blender as a .FBX file and selecting only the Armature, Mesh and Other object type options. And then under Geometry tab, instead of "Normals Only" option, the option "Faces" was selected. Under the Armature tab, "Add Leaf Bones" was unselected while "Only Deform Bones" was selected. As for importing the files into UE5, the only problem faced was that the police hat, the bag and crowbar of the robber did not move along with the animations, this was fixed by attaching them the appropriate armature of the model. The character models were also resized to be of similar height and width as one model was bigger than the other.
+
+The models for the truck and the police car were also exported as .FBX files similar to the other models but the armature option type was not selected this time. These models only had issues related to their materials which was fixed in UE5 by selecting the appropriate material option.
+
+The first animation showed in the video sequence is of the robber looking to his left and right as he gets surrounded by the police. In this scene, the animation was imported from blender and the different lights used were added in UE5. The scene includes a moving camera which follows the robbers movement has he looks around. The scene also includes materials used on the wall behind the robber which was downloaded from [ARTSTATION](https://www.artstation.com/marketplace/p/NNPe2/100-free-ue4-ue5-brick-walls-materials-pack-1) as well as a police siren sound effect which was downloaded from [Videvo](https://www.videvo.net/sound-effect/police-siren-variou-te2027601/253680/).
+Both the materials downloaded are free to use. The second scene of the video shows the police chasing the robber trying to grab hold of him. The video ends with showing all the models and the title of the project. Both the police and robber models are also in their idle animation which was also imported from blender.
