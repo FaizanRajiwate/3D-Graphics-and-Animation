@@ -8,3 +8,13 @@ Police Car Model: The model was made using a cube has the body of the car and cy
 Robber Model: The robber model is very similar to the police model with a difference being the hat worn by the robber is not a different object instead the model has two other objects namely, the "crowbar" and the "Bag" which is carried by the robber in his two hands. These objects all have their own basic color material while the crowbar has a glossy material to give it a metallic view. The robber also has an idle and running animation just like the police model, but there is one more animation which is used in the beginning of the video sequence which shows the robber looking to his left and right as the police arrive. This animation was made by just rotating and moving the body and the head of the robber.
 
 Truck Model: The model of the truck uses the police car as a base. The backseats of the police car model were deleted and the back of the car was stretched to make it longer while the front seats of the car model were pushed to the front just under the front wheels. A container was then added at the back using a normal cube mesh and stretching it and it was given a black color material similar to the wheels. The window of the truck is given a glass material.
+
+
+References
+
+For all the models, I used sites like Google Images or Sketchfab to get an inspiration for the models.
+
+[Police Model](https://sketchfab.com/search?q=Low+poly+Policeman&type=models)
+[Robber Model](https://sketchfab.com/3d-models/robber-man-ff23ffccf41b42a1b1f9f9182f37a46d)
+[Police Car](https://sketchfab.com/3d-models/low-poly-police-car-4f4cfeb02c384de89baddbee1ea4e28c)
+[Truck](https://sketchfab.com/3d-models/low-poly-truck-98826ebd44e2492298ac925461509216)
